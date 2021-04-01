@@ -1,6 +1,6 @@
 {
   "name": "my-routed-app",
-  "homepage": "https://tnobile.github.io/my-routed-app/" 
+  "homepage": "https://tnobile.github.io/my-routed-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
