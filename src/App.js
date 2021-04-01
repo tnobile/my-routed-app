@@ -45,9 +45,6 @@ const App = () => {
                     <Route path="/contact">
                         <Contact />
                     </Route>
-                    <Route path="/contacts">
-                        <Contact />
-                    </Route>
                 </Switch>
             </div>
         </div>
